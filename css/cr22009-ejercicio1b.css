@@ -1,0 +1,41 @@
+
+fichero {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+nombre, apellido {
+    display: block;
+    font-size: 1.2em;
+    color: #3498db;
+}
+
+direccion {
+    display: block;
+    font-size: 1em;
+    color: #2ecc71;
+    margin-bottom: 10px;
+}
+
+telefono, email, url {
+    display: block;
+    font-size: 0.9em;
+    color: #e74c3c;
+    margin-bottom: 6px;
+}
+
+ficha + ficha {
+    margin-top: 20px;
+}
+
+fichero {
+    background: linear-gradient(120deg, #f6e58d, #ffbe76);
+}
+
+* {
+    box-sizing: border-box;
+}

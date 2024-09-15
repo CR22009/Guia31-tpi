@@ -1,0 +1,24 @@
+{
+  "fichero": {
+    "ficha": [
+      {
+        "nombre": "Antonio",
+        "apellido": "Barbero",
+        "direccion": "Calle de Los Andes, 45"
+      },
+      {
+        "nombre": "Laura",
+        "apellido": "Pérez",
+        "direccion": "Avenida Central, 12",
+        "telefonos": {
+          "telefono": [
+            "+34 612345678",
+            "+34 915432109"
+          ]
+        },
+        "email": "",
+        "website": ""
+      }
+    ]
+  }
+}

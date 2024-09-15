@@ -1,0 +1,44 @@
+/* Estilos generales para el documento XML */
+pais {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+/* Estilos para cada departamento */
+departamento {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+/* Estilos para la cabecera del departamento */
+cabecera {
+    font-size: 1.2em;
+    color: #3498db;
+    margin-bottom: 8px;
+}
+
+/* Estilos para los habitantes y la altura */
+habitantes, altura {
+    font-size: 1em;
+    color: #2ecc71;
+    margin-bottom: 6px;
+}
+
+/* Estilos para los nuevos atributos añadidos en el ejercicio 2b */
+documentacion {
+    font-size: 0.9em;
+    color: #e74c3c;
+    margin-bottom: 6px;
+}
+
+dui, isss, afp {
+    display: block;
+    margin-bottom: 4px;
+}

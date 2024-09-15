@@ -1,0 +1,28 @@
+/* Estilo para ejemplo2.xml */
+pais {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+departamento {
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f9f9f9;
+}
+
+departamento > cabecera {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #007bff;
+}
+
+departamento > habitantes, departamento > altura {
+    font-size: 0.9em;
+    color: #666;
+}
+
+idiomas {
+    margin-top: 10px;
+    font-style: italic;
+}

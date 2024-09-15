@@ -1,0 +1,26 @@
+{
+  "pais": {
+    "idiomas": {
+      "oficial": "Español",
+      "autoctono": "Nahuat",
+      "segundo": "Inglés"
+    },
+    "departamento": [
+      {
+        "cabecera": "San Salvador",
+        "habitantes": "1,700,000",
+        "altura": "545 MSNM"
+      },
+      {
+        "cabecera": "Santa Tecla",
+        "habitantes": "740,847",
+        "altura": "904 MSNM"
+      },
+      {
+        "cabecera": "Santa Ana",
+        "habitantes": "523,655",
+        "altura": "665 MSNM"
+      }
+    ]
+  }
+}
